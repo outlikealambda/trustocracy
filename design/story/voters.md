@@ -31,7 +31,7 @@ _would not use the product because_
 
 ## The Moderate User
 
-_ is motivated to_
+_is motivated to_
 
 - find out what is going to happen
 - influence specific issues, via support
