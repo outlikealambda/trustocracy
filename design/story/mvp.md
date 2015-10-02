@@ -1,7 +1,7 @@
 ## MVP
 
 Endpoint Requirements
-- [Voting Mechanism](votingMechanism.md)
-- [Votable Status](votingStatus.md)
+- [Voting Mechanics](votingMechanics.md)
+- [Votable Status](votableStatus.md)
 - [User Status](userStatus.md)
 - [Visibility Permissions](visibilityPermission.md)
