@@ -19,3 +19,5 @@ executable trustocracy
   build-depends:       base >= 4.7 && < 5
                      , mtl
                      , containers
+                     , stm
+                     , stm-containers
